@@ -16,6 +16,9 @@ NOt Spam
 
 ![Not Spam](https://github.com/Harinithiruveedula05/Email-SMS-spam-detection/assets/152847148/bda3e2c2-effc-4a48-a47f-b2502613abb3)
 
+
 Spam
+
+
 ![Spam](https://github.com/Harinithiruveedula05/Email-SMS-spam-detection/assets/152847148/973f1d67-1c6f-4f1d-8dfb-c641a3703bda)
 
